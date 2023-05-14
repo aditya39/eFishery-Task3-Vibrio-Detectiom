@@ -1,0 +1,10 @@
+model:
+  yolov8n: "e51822862bb94a3e8b847cdad192f623"
+  yolov8s: "5194157e5ccc4bf2adbc08699da18757"
+  yolov8m: "ca3ed9a01db84818ad891a255d45547f"
+  yolov8l: "790e69a0bbe74488a50201efe9548df6"
+  yolov8x: "837adbe96442446ab893be14945ca8a5"
+yolov8:
+  conf: 0.5
+  iou: 0.5
+  device: 0

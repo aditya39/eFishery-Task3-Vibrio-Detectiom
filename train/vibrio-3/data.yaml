@@ -1,0 +1,14 @@
+names:
+- black
+- green
+- yellow
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: vibrio-dt175
+  url: https://universe.roboflow.com/wiranda-aditiya-znixh/vibrio-dt175/dataset/3
+  version: 3
+  workspace: wiranda-aditiya-znixh
+test: test/images
+train: train/images
+val: valid/images
