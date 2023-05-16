@@ -11,18 +11,11 @@
 The purpose of this project is to be able detect, counting, and classifying vibrio bacteria with YOLOv8, well known as one of the DeepLearning object detection algorithm.
 This is also part of take home test for applying Machine Learning Computer Vision Engineer in eFishery.
 
----
 ## Problem
 Mr. Joshua who is an Aquaculture Expert in the field of microbiology. At this time, he is in need of help to count the number of vibrio colonies because he is used to processing more or less 100 cups per day. Counting one cups consist dozens of different vibrio already a pain, imagine 100 cups. 
 Mr. Joshua need an alternative or automatic ways to do this painfull jobs.
-Hello and welcome.. 
-Aim of this project is to be able detect, counting, and classifying vibrio bacteria with YOLOv8, well known as one of the DeepLearning object detection algorithm.
-This is also part of take home test for applying Machine Learning Computer Vision Engineer in eFishery.
-
-## Idea
-
   
-## Solution
+## Idea & Solution
 To make Mr. Joshua live easier, we create a web based platform to be able detect vibrio, classify & count.
 Deep learning approach were made to solved this problem, by using YOLOv8 (You Only Look Once version 8) we be able to detect, classify the size also color of the vibrio.
 
@@ -32,15 +25,9 @@ Deep learning approach were made to solved this problem, by using YOLOv8 (You On
   3. Use ClearML to tracks and controls the process, performance metrics, and model storing.
   4. Create the platform using streamlit and inference the image using the our trained model.
   
-
-To make it easier to make a solution, he provides a sample of 20 petri dish images on this link with an area of 7854 mm , which are observations of vibrio species on pond water quality
-
-## Solusi
-Berdasarkan permasalahan yang disebutkan yaitu untuk membantu "Menghitung jumlah spesies vibrio dengan warna yang berbeda dan mengukur size dari tiap species yang terdapat pada gambar tersebut. Untuk mensolve problem tersebut diperlukan platform untuk mempermudah beliau melakukan ekstraksi ukuran dan warna dari tiap koloni vibrio". 
-
-
 ## Installation and Usage
-Berikut adalah langkah-langkah untuk menginstal dan menjalankan proyek ini di local environtment, sangat disarankan untuk menggunakan virtual environment atau sudah terpasang docker:
+Here is the instruction about how to install and run the program.
+<br>
 ### PYTHON USAGE
 1. Clone this git repo, you can download or use commmand below
 ```
@@ -51,7 +38,7 @@ git clone https://github.com/fulankun1412/Vibrio-YOLOv8-Lanang-eFishery.git
 ```
 pip install -r requirements.txt
 ```
-4. To run the program, just run this command
+4. To run the program, run this command below on CLI
 ```
 streamlit run app.py
 ```
@@ -68,7 +55,7 @@ docker-compose up
 ```
 3. Buka browser internet dan masuk ke localhost:8501, aplikasi terbuka selamat mencoba.
 
-## Interface antar muka
+## Demo
 ### Input gambar
 ![image](https://github.com/fulankun1412/Vibrio-YOLOv8-Lanang-eFishery/assets/16248869/9dea2503-535f-41e3-bb46-01db01686667)
 ### Upload Gambar
