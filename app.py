@@ -5,7 +5,9 @@ import streamlit as st
 from ultralytics import YOLO
 from clearml import InputModel
 from detection import detect
+import os
 
+os.environ['CLEARML_CONFIG_FILE'] = "clearml.conf"
 # Open Config File
 with open("config.yaml", "r") as ymlfile:
     cfg = yaml.load(ymlfile, Loader=yaml.FullLoader)
