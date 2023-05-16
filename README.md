@@ -7,13 +7,17 @@
 </div>
 
 # eFishery Task 3 - Vibrio Detection
-Hello and welcome.. 
-Aim of this project is to be able detect, counting, and classifying vibrio bacteria with YOLOv8, well known as one of the DeepLearning object detection algorithm.
+<p> Hi.. </p>
+The purpose of this project is to be able detect, counting, and classifying vibrio bacteria with YOLOv8, well known as one of the DeepLearning object detection algorithm.
 This is also part of take home test for applying Machine Learning Computer Vision Engineer in eFishery.
+
 ---
 ## Problem
 Mr. Joshua who is an Aquaculture Expert in the field of microbiology. At this time, he is in need of help to count the number of vibrio colonies because he is used to processing more or less 100 cups per day. Counting one cups consist dozens of different vibrio already a pain, imagine 100 cups. 
 Mr. Joshua need an alternative or automatic ways to do this painfull jobs.
+Hello and welcome.. 
+Aim of this project is to be able detect, counting, and classifying vibrio bacteria with YOLOv8, well known as one of the DeepLearning object detection algorithm.
+This is also part of take home test for applying Machine Learning Computer Vision Engineer in eFishery.
 
 ## Idea
 
