@@ -57,8 +57,16 @@ docker-compose up
 
 ## Demo
 ### Input gambar
-![image](https://github.com/fulankun1412/Vibrio-YOLOv8-Lanang-eFishery/assets/16248869/9dea2503-535f-41e3-bb46-01db01686667)
-### Upload Gambar
-![image](https://github.com/fulankun1412/Vibrio-YOLOv8-Lanang-eFishery/assets/16248869/3899a2d9-a9fe-4bc0-b627-d0f1a9c33d66)
-### Hasil deteksi dan Perhitungan
-![image](https://github.com/fulankun1412/Vibrio-YOLOv8-Lanang-eFishery/assets/16248869/08175c0a-2a99-46d4-8176-a72b9e5da08e)
+<p style="text-align: center">
+  <img align="center" src="homepage.png" alt="eFishery">
+</p>
+
+### Choose model
+<p style="text-align: center">
+  <img align="center" src="model.png" alt="eFishery">
+</p>
+
+### Result
+<p style="text-align: center">
+  <img align="center" src="result.png" alt="eFishery">
+</p>
