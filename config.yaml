@@ -7,4 +7,4 @@ model:
 yolov8:
   conf: 0.5
   iou: 0.5
-  device: 0
+  device: 'cpu'
